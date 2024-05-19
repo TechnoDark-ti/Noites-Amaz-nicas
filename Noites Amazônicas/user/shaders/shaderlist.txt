@@ -1,0 +1,2 @@
+<2>HDRPostProcess@HDRFinalScenePS()(%_RT_SAMPLE1|%_RT_SAMPLE4)(0)(0)(0)(0)(PS)
+<2>DeferredShading@SSDO_Sampling_PS()(%_RT_SAMPLE1)(0)(0)(0)(0)(PS)
